@@ -16,6 +16,14 @@
   "type": "module",
   "author": "BhargavGarge <bhargaavvv@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BhargavGarge/llm-dedupe.git"
+  },
+  "homepage": "https://github.com/BhargavGarge/llm-dedupe#readme",
+  "bugs": {
+    "url": "https://github.com/BhargavGarge/llm-dedupe/issues"
+  },
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "types": "dist/types/index.d.ts",
